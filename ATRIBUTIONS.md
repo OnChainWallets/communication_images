@@ -3,7 +3,7 @@
 This file lists the sources and attribution requirements for third-party assets used in this repository. All assets are subject to the terms outlined in `USAGE.md` and the original provider’s licensing terms, which you are responsible for verifying and complying with.
 
 ## Generic Attributions
-- **Storyset Images**: Files with the prefix `st_` or `storyset` in their filenames (e.g., `st_hero-illustration.svg`) are sourced from Storyset (https://storyset.com/).
+- **Storyset Images**: Files with the prefix and/or included in the folder /third-party/storyset `st_` or `storyset` in their filenames (e.g., `st_hero-illustration.svg`) are sourced from Storyset (https://storyset.com/).
 
 ## Specific Asset Attributions
 The following assets have unique attribution requirements:
