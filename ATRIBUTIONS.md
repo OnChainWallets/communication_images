@@ -8,12 +8,11 @@ This file lists the sources and attribution requirements for third-party assets 
 ## Specific Asset Attributions
 The following assets have unique attribution requirements:
 
-- **st_team-collaboration.svg**:
-  - Source: Storyset (https://storyset.com/illustration/team-collaboration)
-  - Attribution: Illustration by Storyset
+##### folder /third-party/
 
-- **st_welcome-banner.svg**:
-  - Source: Storyset (https://storyset.com/illustration/welcome)
+    
+- **Welcome-amico**:
+  - Source: Storyset (https://storyset.com/illustration/welcome/amico)
   - Attribution: Illustration by Storyset
 
 ## Usage Instructions
